@@ -1,8 +1,4 @@
 /* Name: Harpriya Bagri
- * Date: December 3rd, 2016
- * Lab #: 8 - SIMON GAME
- * Lab Section: L1F
- * Email: harpriya@alumni.ubc.ca
  * Purpose: to simulate the simon game.
  */
 
