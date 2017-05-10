@@ -1,11 +1,3 @@
-/* Name: Harpriya Bagri
- * Date: December 3rd, 2016
- * Lab #: 8 - SIMON GAME
- * Lab Section: L1F
- * Email: harpriya@alumni.ubc.ca
- */
-
-
 
 #define _CRT_SECURE_NO_WARNINGS
 
