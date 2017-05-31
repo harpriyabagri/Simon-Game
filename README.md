@@ -1,5 +1,6 @@
 # simon-game
-Created in visual studios using C. Meant for DAQ module or simulation.
+Created in visual studios using C. Meant for DAQ module or simulation. Coded and debugged myself.
+
 # Instructions: 
 1. Pay attention to which LED lights up.
 2. Press corresponding button.
